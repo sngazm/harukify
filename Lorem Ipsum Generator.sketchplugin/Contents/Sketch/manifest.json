@@ -1,0 +1,25 @@
+{
+  "author" : "Ryosuke",
+  "commands" : [
+    {
+      "script" : "script.cocoascript",
+      "name" : "Fill out text fields",
+      "handlers" : {
+        "run" : "onRun"
+      },
+      "identifier" : "com.ryosuke.lorem.run",
+      "shortcut" : "shift ctrl l"
+    }
+  ],
+  "menu" : {
+    "items" : [
+      "com.ryosuke.lorem.run"
+    ],
+    "title": "Lorem Ipsum Generator"
+  },
+  "identifier" : "com.ryosuke.lorem",
+  "version" : "1.0",
+  "description": "A Sketch plugin to generate lorem ipsum text. Based on pluygin by Richard Gong",
+  "authorEmail" : "ryosuke.san.hana@gmail.com",
+  "name" : "Lorem Ipsum Generator"
+}
