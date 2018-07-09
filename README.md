@@ -4,6 +4,8 @@ A plugin for [Sketch](http://sketchapp.com) to insert Lorem Ipsum into any selec
 
 Currently features unique 10 paragraphs of Lorem Ipsum.
 
+![GIF of plugin being used in Sketch](/example.gif "Example of plugin in use")
+
 ## Installation
 
 1. Download or clone this repository
