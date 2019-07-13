@@ -1,0 +1,25 @@
+{
+  "author" : "Shingo Azuma",
+  "commands" : [
+    {
+      "script" : "script.cocoascript",
+      "name" : "Fill out text fields",
+      "handlers" : {
+        "run" : "onRun"
+      },
+      "identifier" : "com.sngazm.harukify.run",
+      "shortcut" : "shift ctrl l"
+    }
+  ],
+  "menu" : {
+    "items" : [
+      "com.sngazm.harukify.run"
+    ],
+    "title": "Harukify"
+  },
+  "identifier" : "com.ryosuke.lorem",
+  "version" : "1.0",
+  "description": "A Sketch plugin to generate Haruki-ish dummy text. Based on plugin by Ryosuke",
+  "authorEmail" : "shirahadori@gmail.com",
+  "name" : "Harukify"
+}
